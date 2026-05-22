@@ -1,0 +1,10 @@
+101:Laptop:1200.00:5
+102:Smartphone:800.00:10
+103:Tablet:500.00:7
+104:Headphones:150.00:15
+105:Smartwatch:200.00:8
+106:Camera:900.00:4
+107:Printer:300.00:6
+108:Monitor:250.00:9
+109:Keyboard:50.00:20
+110:Mouse:30.00:25
